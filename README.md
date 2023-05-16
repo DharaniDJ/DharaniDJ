@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dharani56525@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Uf5MQRhkTn01tqFVVROY5DZLbM4G886R/view?usp=sharing](https://drive.google.com/file/d/1Uf5MQRhkTn01tqFVVROY5DZLbM4G886R/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SrAhaTqvgG7vb2ondKqfKdXRTNrgsut-/view?usp=sharing](https://drive.google.com/file/d/1SrAhaTqvgG7vb2ondKqfKdXRTNrgsut-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
