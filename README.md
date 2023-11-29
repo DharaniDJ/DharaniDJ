@@ -3,7 +3,7 @@
 
 - 🦀  I’m currently learning **Distributed Databases**
 
-- 👑 I’m looking to collaborate on **software development projects and having ownership over my work.**
+- 👑 I’m looking to collaborate on **software development projects and have ownership over my work.**
 
 - 💬 Ask me about **C++, Django, FastAPI, Rust, Elasticsearch, GraphQL**
 
