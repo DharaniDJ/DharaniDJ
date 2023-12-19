@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naga Venkata Dharani Viswanadh Chinta, but I go by Dharani.</h1>
-<h3 align="center">I am a software engineer with a passion for exploring new technologies and domains. I am always looking for new challenges and opportunities to learn and grow.</h3>
+<h3 align="center">I am a software engineer passionate about exploring new technologies and domains. I am always looking for new challenges and opportunities to learn and grow.</h3>
 
 - 🦀  I’m currently learning **Distributed Databases**
 
