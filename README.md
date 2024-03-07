@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dharani56525@gmail.com**
 
-- 📄 Know about my experiences [my-resume](https://drive.google.com/file/d/1vE_aji5pLqddtbpAMD0PO89KcCAdbjc-/view?usp=sharing)
+- 📄 Know about my experiences [my-resume](https://shorturl.at/nqDE1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
