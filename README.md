@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naga Venkata Dharani Viswanadh Chinta, but I go by Dharani.</h1>
 <h3 align="center">I am a software engineer passionate about exploring new technologies and domains. I am always looking for new challenges and opportunities to learn and grow.</h3>
 
-- 🏥 I'm currently working on an idea in the medtech domain, specifically focusing on PACS (Picture Archiving and Communication System) systems.
+- 🏥 I'm currently working on an idea in the **medtech domain**, specifically focusing on **PACS** (Picture Archiving and Communication System) systems.
 
 - 🦀  I’m currently learning **AWS for Certified Solutions Architect Associate**
 
