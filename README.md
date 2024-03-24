@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dharani56525@gmail.com**
 
-- 📄 Know about my experiences [my-resume](https://shorturl.at/aCDPY)
+- 📄 Know about my experiences [my-resume](https://shorturl.at/lOAYz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
