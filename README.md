@@ -13,6 +13,16 @@
 
 - 📄 Know about my experiences [my-resume](https://shorturl.at/lOAYz)
 
+
+<h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+
+To see all the other badges are [here](https://www.credly.com/users/dharani-chinta/badges)
+
+<!--START_SECTION:badges-->
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/93b5923d-c70f-4fb0-8d0e-cdfd3fa63772/public_url "AWS Certified Solutions Architect – Associate")
+
+<!--END_SECTION:badges-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dharani-chinta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharani-chinta" height="30" width="40" /></a>
