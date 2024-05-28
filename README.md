@@ -3,11 +3,11 @@
 
 - 🏥 I'm currently working on an idea in the **medtech domain**, specifically focusing on **PACS** (Picture Archiving and Communication System) systems.
 
-- 🦀  I’m currently learning **AWS for Certified Solutions Architect Associate**
+- 🦀  I’m currently learning about **data systems and fundamentals of distributed applications**
 
 - 👑 I’m looking to collaborate on **software development projects and have ownership over my work.**
 
-- 💬 Ask me about **C++, Django, FastAPI, Rust, Elasticsearch, GraphQL**
+- 💬 Ask me about **Django, AWS, FastAPI, Rust, Elasticsearch, GraphQL**
 
 - 📫 How to reach me **dharani56525@gmail.com**
 
