@@ -1,0 +1,37 @@
+name: Update GitHub Snake SVG
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout assets branch
+        uses: actions/checkout@v3
+        with:
+          ref: assets # Check out the assets branch
+
+      - name: Generate GitHub Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+
+      - name: Move SVG to assets branch
+        run: |
+          mkdir -p dist # Ensure the dist directory exists
+          mv dist/github-snake.svg assets/github-snake.svg
+
+      - name: Commit and push SVG to assets branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: 'GitHub Actions'
+          author_email: 'actions@github.com'
+          message: 'Update GitHub Snake SVG'
+          add: 'assets/github-snake.svg'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
