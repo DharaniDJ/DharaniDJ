@@ -1,4 +1,15 @@
-<h1 align="center">Hi 👋, I'm Naga Venkata Dharani Viswanadh Chinta, but I go by Dharani.</h1>
+<!--- <h1 align="center">Hi 👋, I'm Naga Venkata Dharani Viswanadh Chinta, but I go by Dharani.</h1> --->
+<!-- HEADING SECTION -->
+<h1><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=700&size=30&pause=1000&color=DA1C10&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+%40DharaniDJ." alt="Typing SVG" /></h1>
+
+<!-- MISC SECTION -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=DharaniDJ&label=Visitors&color=brightgreen&style=flat" alt="DharaniDJ" /> 
+  <a href="https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=dharani-chinta">
+    <img src="https://img.shields.io/badge/Follow-DharaniDJ-0A66C2?logo=linkedin" alt="Follow DharaniDJ on LinkedIn">
+  </a>
+</p>
+
 <h3 align="center">I am a software engineer passionate about exploring new technologies and domains. I am always looking for new challenges and opportunities to learn and grow.</h3>
 
 - 🏥 I'm currently working on an idea in the **medtech domain**, specifically focusing on **PACS** (Picture Archiving and Communication System) systems.
