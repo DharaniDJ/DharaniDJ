@@ -14,7 +14,7 @@
 
 - 🏥 I'm currently working on an idea in the **medtech domain**, specifically focusing on **PACS** (Picture Archiving and Communication System) systems.
 
-- 🦀  I’m currently learning about **data systems and fundamentals of distributed applications**
+- 🦀  I’m currently learning about **RAG applications** tailored for medical field.
 
 - 👑 I’m looking to collaborate on **software development projects and have ownership over my work.**
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **dharani56525@gmail.com**
 
-- 📄 Know about my experiences [my-resume](https://drive.google.com/file/d/1zJXx1ltOnlDivtqriDQAIk3_Geq6cPrj/view?usp=sharing)
+- 📄 Know about my experiences [my-resume](https://drive.google.com/file/d/1ceRWCQwWL0JmNnwINODzwIy8D6ylus-u/view?usp=sharing)
 
 
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
