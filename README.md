@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **dharani56525@gmail.com**
 
-- 📄 Know about my experiences [my-resume](https://drive.google.com/file/d/1nW3KqDdGrIB6kkt9F-A9tjUZDtSkuu6b/view?usp=sharing)
+- 📄 Know about my experiences [my-resume](https://shorturl.at/hkCDe)
 
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
