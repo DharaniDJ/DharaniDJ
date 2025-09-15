@@ -12,17 +12,17 @@
 
 <h3 align="center">I am a software engineer passionate about exploring new technologies and domains. I am always looking for new challenges and opportunities to learn and grow.</h3>
 
-- 🏥 I'm currently working on an idea in the **medtech domain**, specifically focusing on **PACS** (Picture Archiving and Communication System) systems.
+- 🚀 I’m currently at Amazon in the **ClientX** team within the Digital Acceleration org.
 
-- 🦀  I’m currently learning about **RAG applications** tailored for medical field.
+- 🦀  I’m currently working on **RAG applications** to accelerate digital product launches and enhance the user experience for clients and internal teams.
 
 - 👑 I’m looking to collaborate on **software development projects and have ownership over my work.**
 
-- 💬 Ask me about **Django, AWS, FastAPI, Rust, Elasticsearch, GraphQL**
+- 💬 Ask me about **RAG, FastAPI, AWS, Django, Rust, Elasticsearch, GraphQL**
 
 - 📫 How to reach me **dharani56525@gmail.com**
 
-- 📄 Know about my experiences [my-resume](https://shorturl.at/hkCDe)
+- 📄 Know about my experiences [my-resume](https://drive.google.com/file/d/1wUOmt8dVzXy-l1GiwIO6n1DiKeQ8v_O7/view?usp=sharing)
 
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
