@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **dharani56525@gmail.com**
 
-- 📄 Know about my experiences [my-resume](https://drive.google.com/file/d/1wUOmt8dVzXy-l1GiwIO6n1DiKeQ8v_O7/view?usp=sharing)
+- 📄 Know about my experiences [my-resume](https://shorturl.at/XRQfe)
 
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
@@ -30,6 +30,7 @@ To see all the other badges are [here](https://www.credly.com/users/dharani-chin
 
 <!--START_SECTION:badges-->
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/93b5923d-c70f-4fb0-8d0e-cdfd3fa63772/public_url "AWS Certified Solutions Architect – Associate")
+[![AWS Certified Generative AI Developer – Professional](https://images.credly.com/size/100x100/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob)](https://www.credly.com/badges/0cc4227e-eb42-4ffe-ba41-519766b9e5ea/public_url "AWS Certified Generative AI Developer – Professional")
 
 <!--END_SECTION:badges-->
 
